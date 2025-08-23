@@ -1,0 +1,24 @@
+# Arquivos de configuração do IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Diretório de saída de build
+out/
+build/
+target/
+bin/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos de backup
+*.class
+*.jar
+*.war
+*.ear
